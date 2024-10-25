@@ -1,0 +1,25 @@
+
+h1{
+    text-align: center;
+}
+div{
+    height: 200px;
+    width: 200px;
+    background-color: whitesmoke;
+    border: 5px solid beige;
+    border-radius: 20px;
+    margin: 30px auto;
+    padding: 15px;
+}
+input{
+    text-align: center;
+    background-color: burlywood;
+}
+button{
+    background-color: burlywood
+
+}
+button:hover{
+    background-color: blue;
+    color: aliceblue;
+}
